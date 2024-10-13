@@ -8,10 +8,3 @@ Este repositorio contiene las historias de usuario y maquetas del proyecto final
 
 Para obtener más información sobre las historias de usuario, los requisitos del sistema y las maquetas del proyecto, visita nuestra Wiki: [Historias de usuario y maquetas](https://github.com/CamiloToroUCC/Historias-de-usuario-y-maquetas-del-proyecto-final-UCC.wiki.git).
 
-## Contribuciones
-
-Si deseas contribuir al proyecto, siéntete libre de abrir un issue o enviar un pull request. Agradecemos cualquier sugerencia o mejora que puedas ofrecer.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
