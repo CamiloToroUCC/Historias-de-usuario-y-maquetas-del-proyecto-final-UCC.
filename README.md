@@ -6,5 +6,5 @@ Este repositorio contiene las historias de usuario y maquetas del proyecto final
 
 ## Visita Nuestra Wiki
 
-Para obtener más información sobre las historias de usuario, los requisitos del sistema y las maquetas del proyecto, visita nuestra Wiki: [Historias de usuario y maquetas](https://github.com/CamiloToroUCC/Historias-de-usuario-y-maquetas-del-proyecto-final-UCC/wiki).
+Para obtener más información sobre las historias de usuario, los requisitos del sistema y las maquetas del proyecto, visita nuestra Wiki: [Historias de usuario y maquetas]([https://github.com/CamiloToroUCC/Historias-de-usuario-y-maquetas-del-proyecto-final-UCC/wiki](https://github.com/CamiloToroUCC/Historias-de-usuario-y-maquetas-del-proyecto-final-UCC./wiki)).
 
