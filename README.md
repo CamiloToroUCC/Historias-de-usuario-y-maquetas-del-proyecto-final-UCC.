@@ -1,8 +1,9 @@
-# Historias de Usuario y Maquetas del Proyecto Final UCC
+# Historias de Usuario y Wireframes del Proyecto Final UCC
 
-## Momento Evaluativo 2
 
-Este repositorio contiene las historias de usuario y maquetas del proyecto final para la asignatura de Ingeniería de Requisitos de la Universidad Cooperativa de Colombia. El proyecto está diseñado para crear una plataforma web de redes profesionales que facilite la interacción entre usuarios, permitiendo gestionar perfiles, buscar empleo y conectarse con otros profesionales.
 
-## Visita Nuestra Wiki
-Para obtener más información sobre las historias de usuario, los requisitos del sistema y las maquetas del proyecto, visita nuestra Wiki: [Historias de usuario y maquetas](https://github.com/CamiloToroUCC/Historias-de-usuario-y-maquetas-del-proyecto-final-UCC./wiki)
+Este repositorio contiene las historias de usuario y maquetas del proyecto final para la asignatura DIseño de Software de la Universidad Cooperativa de Colombia. El proyecto está diseñado para crear una plataforma de gestion de reserva de habitaciones para hoteles.
+
+## Visita la wiki Wiki
+
+Para obtener más información sobre las historias de usuario, los requisitos del sistema y wireframes del proyecto, visita mi Wiki: [Historias de usuario y maquetas](https://github.com/CamiloToroUCC/Historias-de-usuario-y-maquetas-del-proyecto-final-UCC./wiki)
